@@ -21,9 +21,3 @@ I don't edit synced files by hand. The extension owns them, and manual edits can
 ## Repo structure
 
 Each solved problem gets its own folder with the solution file. Folder names follow the problem title, for example `two-sum/`. Browse the folders above or use GitHub's file search (press `t`) to find a problem.
-
-## Notes
-
-- Languages: add the ones you use here.
-- Focus: add your current topic, for example arrays, DP or graphs.
-- Goal: add a target, for example 150 problems by January 2027.
