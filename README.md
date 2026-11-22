@@ -10,14 +10,6 @@ My accepted LeetCode solutions, synced automatically to this repo with the [Leet
 
 I don't edit synced files by hand. The extension owns them, and manual edits can be overwritten on the next sync.
 
-## Setup (for reference)
-
-1. Install LeetSync from the Chrome Web Store.
-2. Click the extension icon and give it access through GitHub.
-3. Log in to LeetCode if the extension asks.
-4. Select this repo.
-5. Submit a problem and check that the commit shows up.
-
 ## Repo structure
 
 Each solved problem gets its own folder with the solution file. Folder names follow the problem title, for example `two-sum/`. Browse the folders above or use GitHub's file search (press `t`) to find a problem.
